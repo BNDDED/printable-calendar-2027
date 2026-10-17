@@ -1,0 +1,5 @@
+# Allow crawling of the public Printable Calendar 2027 site.
+User-agent: *
+Allow: /
+
+Sitemap: https://bndded.github.io/printable-calendar-2027/sitemap.xml
