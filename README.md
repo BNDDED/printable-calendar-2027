@@ -59,11 +59,11 @@ printable-calendar-2027/
 
 ## Deploy
 
-Published with GitHub Pages from the `main` branch, root folder (`/`).
+Static files on `main` are set up for GitHub Pages: **Deploy from a branch**, branch `main`, folder `/` (root).
 
-Live site: https://bndded.github.io/printable-calendar-2027/
+Public URL: https://bndded.github.io/printable-calendar-2027/
 
-`canonical` links and `sitemap.xml` use that URL. `robots.txt` points at the sitemap. GitHub Pages serves `404.html` for unknown paths. `.nojekyll` keeps Pages from running Jekyll on these static files.
+`canonical` links and `sitemap.xml` use that URL. `robots.txt` points at the sitemap. Once Pages is enabled, GitHub Pages serves `404.html` for unknown paths. `.nojekyll` keeps Pages from running Jekyll on these static files.
 
 ## License / use
 
